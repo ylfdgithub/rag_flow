@@ -1,4 +1,5 @@
-let api_host = `/v1`;
+// let api_host = `/v1`;
+let api_host = `https://demo.ragflow.io/v1`;
 
 export { api_host };
 
